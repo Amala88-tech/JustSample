@@ -1,7 +1,9 @@
 package org.sam;
 
 public class Sample1 {
-	sample1
+	public static void main(String[] args) {
+		System.out.println("GIT");
+	}
 }
-}
+
 
